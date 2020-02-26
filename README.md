@@ -2,7 +2,7 @@
 <b>DILo Academy Game Programming Assignment I</b>
 
 Project ini dibuat untuk keperluan submisi tugas <b>DILo Academy Batch II Divisi Game Programming</b>.
-Game ini merupakan hasil modifikasi dari sample project yang diberikan oleh DILo.
+Game ini merupakan hasil modifikasi oleh saya sendiri, project yang dimodifikasi adalah sample project dari DILo.
 
 <b>Mekanika hasil modifikasi yang ditambahkan ke dalam game antara lain:</b>
 1. Implementasi besar gaya yang sama di dalam metode BallControl.PushBall().
