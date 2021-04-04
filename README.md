@@ -1,7 +1,7 @@
 # Pong-DILo
 <b>DILo Academy Game Programming Assignment I</b>
 
-Project ini dibuat untuk keperluan submisi tugas <b>DILo Academy Batch II Divisi Game Programming</b>.<br>
+Project ini dibuat untuk keperluan submisi tugas <b>DILo Academy Batch IV Divisi Game Programming</b>.<br>
 Game ini merupakan hasil modifikasi oleh saya sendiri. <br>
 Project yang dimodifikasi adalah sample project dari DILo.
 
